@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/farelfair/Pictures/wallhaven-4lgz32.jpg" added="2025-05-23T11:06:10.334001Z" modified="2025-05-23T11:06:31.991951Z" visited="2025-05-23T11:06:10.334003Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-05-23T11:06:11.476419Z" count="2"/>
+          <bookmark:application name="budgie-control-center" exec="&apos;budgie-control-center %u&apos;" modified="2025-05-23T11:06:31.991946Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/farelfair/Pictures/wallhaven-8o3o7k.jpg" added="2025-05-23T11:09:26.221665Z" modified="2025-05-23T11:09:44.691252Z" visited="2025-05-23T11:09:26.221668Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-05-23T11:09:30.280909Z" count="2"/>
+          <bookmark:application name="budgie-control-center" exec="&apos;budgie-control-center %u&apos;" modified="2025-05-23T11:09:44.691247Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/farelfair/Downloads/code-1.100.2-1747260629.el8.x86_64.rpm" added="2025-05-23T11:11:58.217662Z" modified="2025-05-23T11:11:58.217675Z" visited="2025-05-23T11:11:58.217664Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-rpm"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-05-23T11:11:58.217669Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/farelfair/Documents/firefly-py" added="2025-05-23T11:19:13.185575Z" modified="2025-05-23T11:19:13.225699Z" visited="2025-05-23T11:19:13.185576Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-05-23T11:19:13.225693Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/farelfair/Downloads/xYBhI04T.html" added="2025-05-23T11:23:42.442199Z" modified="2025-05-23T11:23:42.442214Z" visited="2025-05-23T11:23:42.442201Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-05-23T11:23:42.442207Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/farelfair/Downloads/embed_divider.png" added="2025-05-23T11:34:23.720325Z" modified="2025-05-23T11:34:23.970252Z" visited="2025-05-23T11:34:23.720326Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-05-23T11:34:23.720330Z" count="1"/>
+          <bookmark:application name="org.telegram.desktop" exec="&apos;gio open %u&apos;" modified="2025-05-23T11:34:23.970245Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/farelfair/Documents/dotfiles" added="2025-05-23T15:25:41.416730Z" modified="2025-05-23T15:25:41.471090Z" visited="2025-05-23T15:25:41.416731Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-05-23T15:25:41.471085Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
